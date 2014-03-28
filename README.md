@@ -7,4 +7,4 @@ The game is to control zones on a rectangular platform. You own a fleet of drone
 
 You decide each game turn which direction you want to send your drones in, and you earn 1 point per zone you control at the end of the turn. After 200 turns, the player with the highest score wins.
 
-You will find here the source code of my AI, ranked 12th out of 621 competitors at the end of the challenge. You can see the the final ranking [here](http://www.codingame.com/cg/#!challenge:parrot).
+You will find here the source code of my AI, ranked 12th out of 621 competitors at the end of the challenge. You can see the the final ranking [here](http://www.codingame.com/cg/#!ranking:parrot).
